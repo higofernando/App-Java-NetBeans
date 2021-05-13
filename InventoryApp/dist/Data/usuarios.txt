@@ -1,0 +1,6 @@
+deiby|Deiby|Rayo|12345|1
+kellyxp|Kelly|Ortiz|1234|1
+Sebas|Sebastian|Londoño|1234|2
+Jaime|Jaime|Vasques|3030|2
+Marin|Fran|Zuluaga|2020|1
+pepe|Ppito|Slazar|deiby12|1

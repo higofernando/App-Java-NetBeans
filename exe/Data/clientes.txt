@@ -1,0 +1,8 @@
+1|2|Maria|Ibarguen|Cra39H #45-79|234 5690|1|1974/02/23|2020/11/24
+2|1|Marlon|Bedoya|Calle9H #49-78|674 5070|1|2003/05/09|2020/11/20
+3|1|Valentina|Santillana|Avenida 6N #67-90|474 7890|1|2012/09/10|2020/10/15
+4|1|Leopoldo|Marin|Calle 56 #90-89|325 6789|1|1970/05/07|2020/11/25
+5|5|Desconocido|Uknown|Uknown|Uknown|1|2019/11/26|2020/11/26
+6|1|Rafael|Zapata|||0|2020/11/26|2020/11/26
+7|1|Alberto|Zuluaga|||0|2020/11/26|2020/11/26
+8|1|Andrea|Zuñiga|||0|2020/11/26|2020/11/26
